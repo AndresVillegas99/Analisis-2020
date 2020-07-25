@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<DTS:Executable xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:refId="Package"
+  DTS:CreationDate="7/18/2020 2:38:22 PM"
+  DTS:CreationName="Microsoft.Package"
+  DTS:CreatorComputerName="INSTANCE-ANALIS"
+  DTS:CreatorName="INSTANCE-ANALIS\usranalisis"
+  DTS:DTSID="{2E147171-7AA4-44DA-A3A0-2C29A953F312}"
+  DTS:ExecutableType="Microsoft.Package"
+  DTS:LastModifiedProductVersion="15.0.2000.121"
+  DTS:LocaleID="1033"
+  DTS:ObjectName="Package"
+  DTS:PackageType="5"
+  DTS:VersionGUID="{3E1F02CD-BCDA-4BA9-AF7A-5BB76655D19D}">
+  <DTS:Property
+    DTS:Name="PackageFormatVersion">8</DTS:Property>
+  <DTS:Variables />
+  <DTS:Executables />
+</DTS:Executable>

@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1169
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cubos", "Cubos\Cubos.csproj", "{FA6C111C-C84E-4180-AF15-7C579D401001}"
+EndProject
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "Integration Services", "Integration Services\Integration Services.dtproj", "{BBC8F6E3-BDAC-49D3-B210-017CD709C3E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Development|Any CPU = Development|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6C111C-C84E-4180-AF15-7C579D401001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6C111C-C84E-4180-AF15-7C579D401001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6C111C-C84E-4180-AF15-7C579D401001}.Development|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6C111C-C84E-4180-AF15-7C579D401001}.Development|Any CPU.Build.0 = Debug|Any CPU
+		{FA6C111C-C84E-4180-AF15-7C579D401001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6C111C-C84E-4180-AF15-7C579D401001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBC8F6E3-BDAC-49D3-B210-017CD709C3E2}.Debug|Any CPU.ActiveCfg = Development
+		{BBC8F6E3-BDAC-49D3-B210-017CD709C3E2}.Debug|Any CPU.Build.0 = Development
+		{BBC8F6E3-BDAC-49D3-B210-017CD709C3E2}.Development|Any CPU.ActiveCfg = Development
+		{BBC8F6E3-BDAC-49D3-B210-017CD709C3E2}.Development|Any CPU.Build.0 = Development
+		{BBC8F6E3-BDAC-49D3-B210-017CD709C3E2}.Release|Any CPU.ActiveCfg = Development
+		{BBC8F6E3-BDAC-49D3-B210-017CD709C3E2}.Release|Any CPU.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30275535-BCB8-44C2-8E07-373D95D8833C}
+	EndGlobalSection
+EndGlobal
